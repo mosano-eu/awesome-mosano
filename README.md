@@ -43,6 +43,7 @@
 
 - [Shadcn](https://ui.shadcn.com/)
 - [Radix UI](https://www.radix-ui.com/)
+- [Tremor](https://www.tremor.so/)
 - [Headless UI](https://headlessui.com/)
 - [Magic UI](https://magicuikit.com/)
 
@@ -57,7 +58,6 @@
 - [Shadcn Vue](https://www.shadcn-vue.com/)
 - [Radix Vue](https://www.radix-vue.com/)
 - [Headless UI](https://headlessui.com/)
-- [Tremor](https://www.tremor.so/)
 
 #### Toast
 
