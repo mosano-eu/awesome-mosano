@@ -65,7 +65,7 @@
 
 ### Nuxt
 
-### Component Library
+#### Component Library
 
 - [Nuxt UI](https://ui.nuxt.com/)
 - [Nuxt Lego](https://github.com/zernonia/nuxt-lego)
