@@ -59,13 +59,16 @@
 - [Headless UI](https://headlessui.com/)
 - [Tremor](https://www.tremor.so/)
 
-### Nuxt
-
-- [Nuxt UI](https://ui.nuxt.com/)
-
 #### Toast
 
 - [Sonner](https://vue-sonner.vercel.app/)
+
+### Nuxt
+
+### Component Library
+
+- [Nuxt UI](https://ui.nuxt.com/)
+- [Nuxt Lego](https://github.com/zernonia/nuxt-lego)
 
 ### Databases
 
