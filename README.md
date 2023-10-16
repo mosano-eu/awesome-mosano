@@ -20,8 +20,10 @@
 ## Contents
 
 - [Resources](#resources)
+  - [Validation](#validation)
   - [React](#react)
   - [Vue](#vue)
+  - [Nuxt](#nuxt)
   - [Databases](#databases)
   - [Web Socket](#web-sockets)
   - [Design](#design)
@@ -30,13 +32,36 @@
 
 ## Resources
 
+### Validation
+
+- [Zod](https://zod.dev/)
+- [Valibot](https://valibot.dev/)
+
 ### React
+
+#### Component Library
+
+- [Shadcn](https://ui.shadcn.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Headless UI](https://headlessui.com/)
+- [Magic UI](https://magicuikit.com/)
 
 #### Toast
 
 - [Sonner](https://sonner.emilkowal.ski/)
 
 ### Vue
+
+#### Component Library
+
+- [Shadcn Vue](https://www.shadcn-vue.com/)
+- [Radix Vue](https://www.radix-vue.com/)
+- [Headless UI](https://headlessui.com/)
+- [Tremor](https://www.tremor.so/)
+
+### Nuxt
+
+- [Nuxt UI](https://ui.nuxt.com/)
 
 #### Toast
 
