@@ -47,6 +47,7 @@
 - [Tremor](https://www.tremor.so/)
 - [Headless UI](https://headlessui.com/)
 - [Magic UI](https://magicuikit.com/)
+- [Mantine](https://mantine.dev/)
 
 #### Toast
 
