@@ -20,11 +20,35 @@
 ## Contents
 
 - [Resources](#resources)
+  - [React](#react)
+  - [Vue](#vue)
+  - [Databases](#databases)
+  - [Web Socket](#web-sockets)
   - [Design](#design)
     - [Colors](#colors)
     - [Fonts](#fonts)
 
 ## Resources
+
+### React
+
+#### Toast
+
+- [Sonner](https://sonner.emilkowal.ski/)
+
+### Vue
+
+#### Toast
+
+- [Sonner](https://vue-sonner.vercel.app/)
+
+### Databases
+
+- [DragonFly](https://github.com/dragonflydb/dragonfly)
+
+### Web Sockets
+
+- [Soketi](https://github.com/soketi/soketi)
 
 ### Design
 
