@@ -26,6 +26,7 @@
   - [Nuxt](#nuxt)
   - [Databases](#databases)
   - [Web Socket](#web-sockets)
+  - [Test](#test)
   - [Design](#design)
     - [Colors](#colors)
     - [Fonts](#fonts)
@@ -77,6 +78,13 @@
 ### Web Sockets
 
 - [Soketi](https://github.com/soketi/soketi)
+
+### Test
+
+- [Playwright](https://playwright.dev/)
+- [Cypress](https://www.cypress.io/)
+- [Vitest](https://vitest.dev/)
+- [Jest](https://jestjs.io/)
 
 ### Design
 
